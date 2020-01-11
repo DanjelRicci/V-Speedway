@@ -1,2 +1,2 @@
 # V-Speedway
-Arcade racing for Oculus Quest
+Arcade racing for Oculus Quest!
