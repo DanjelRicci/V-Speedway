@@ -1,20 +1,19 @@
 # V-Speedway
-*Arcade racing for Oculus Quest!*
+*Arcade racing and drifting!*
 
-This is a playable alpha version of a project I'm developing in my free time. I'm very passionate about racing and there's not enough yet on Oculus Quest, so here we are!
+![gif 1](https://img.itch.zone/aW1nLzMxMjg4NzIuZ2lm/original/ydtwuq.gif)  
 
-![gif 1](https://img.itch.zone/aW1nLzI4NjI1MjkuZ2lm/original/rnLfiC.gif)  
+**V-Speedway is a Oculus Quest exclusive racing game inspired by arcade classics.**  
+This repository works as a depot for official APK files and changelogs. To read more updated informations on the project, please head to the links below.
 
-The final idea of this game is inspired by classic games like *Screamer* or *Daytona USA*, with a bunch of nice cars, long tracks, and quick game modes. I'll keep the alpha public as I like to give players something to play right now, plus a full fledged demo once the final game will be out.
-
-![gif 2](https://img.itch.zone/aW1nLzI4NjI1MzEuZ2lm/original/PWZ6PU.gif)  
+![gif 2](https://img.itch.zone/aW1nLzMxMjg4NzMuZ2lm/original/BDDPze.gif)  
 
 # Install
 This is a standard Android APK and can easily be installed using SideQuest. [Check this guide](https://skarredghost.com/2019/06/19/how-to-install-uninstall-unapproved-apps-oculus-quest-sidequest/) if you need help on how to do it!
 
 # Links
-- [Discord community](http://discord.gg/cHtPANW)  
-- [Official Itch.io page](https://danjelricci.itch.io/v-speedway)  
-- [SideQuest page](https://sdq.st/a-458)  
+- [Main page on SideQuest](https://sdq.st/a-458)  
+- [Itch.io page](https://danjelricci.itch.io/v-speedway)  
+- [Official Discord community](http://discord.gg/cHtPANW)  
 
-![gif 3](https://img.itch.zone/aW1nLzI4NjI1MzIuZ2lm/original/3TPH7c.gif)
+![gif 3](https://img.itch.zone/aW1nLzMxMjg4ODEuZ2lm/original/YWQIng.gif)
