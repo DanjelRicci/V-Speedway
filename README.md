@@ -3,7 +3,7 @@
 
 ![gif 1](https://img.itch.zone/aW1nLzQzOTgwMDEuZ2lm/105x83%23/s2HWHR.gif)  
 
-**V-Speedway is a Oculus Quest exclusive arcade racing game.**  
+**V-Speedway is an Oculus Quest exclusive arcade racing game.**  
 This repository is the official alpha depot for latest APK files and changelogs. For more informations on the project, please check the links below.
 
 # Install
