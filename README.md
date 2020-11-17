@@ -13,5 +13,4 @@ This is a standard Android APK and can easily be installed using ADB or SideQues
 - [SideQuest main page](https://sidequestvr.com/app/458/v-speedway)  
 - [Itch page](https://danjelricci.itch.io/v-speedway)  
 - [Discord community](http://discord.gg/cHtPANW) 
-- [Patreon](https://patreon.com/commutergames)  
 - [Twitter](https://twitter.com/commutergames)  
